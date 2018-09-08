@@ -1,6 +1,6 @@
 # python-raspi-uart
 
-Small wrapper of the pyserial library to use with the raspberry pi. UART in raspi 3 model B is available at /dev/ttyS0. However serial login terminal must be disabled in the kernel options before using /dev/ttyS0 device file.
+Small wrapper of the pyserial library to use with the raspberry pi. UART in raspi 3 model B is available at `/dev/ttyS0`. However serial login terminal must be disabled in the kernel options before using `/dev/ttyS0` device file.
 
 UART Pins are:
 * GND: Pin  6
