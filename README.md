@@ -7,6 +7,10 @@ UART Pins are:
 * TXD: Pin  8 or GPIO14
 * RXD: Pin 10 or GPIO15
 
+https://github.com/JVGD/python-raspi-uart/blob/master/readme/Raspi_pinout.png
+![Raspi pinout](https://github.com/JVGD/python-raspi-uart/blob/master/readme/Raspi_pinout.png "Raspi pinout")
+
+
 Quick usage example would be:
 
 ```python
